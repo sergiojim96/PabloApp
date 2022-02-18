@@ -2,7 +2,7 @@
   "name": "pabloapp",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": ["node", "express", "heroku"],
   "author": "",
   "license": "ISC",
   "dependencies": {
