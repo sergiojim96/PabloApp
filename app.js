@@ -15,4 +15,4 @@ router.get('/about',function(req,res){
 //add the router
 app.use('/', router);
 app.use('/', express.static(__dirname + '/'));
-app.listen(process.env.port || 3000);
+app.listen(process.env.port || 5000);
